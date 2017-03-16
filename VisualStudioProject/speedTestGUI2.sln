@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "speedTestGUI2", "speedTestGUI2\speedTestGUI2.vcxproj", "{39D9C89C-39DF-4575-8533-2B52429FC90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D9C89C-39DF-4575-8533-2B52429FC90D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{39D9C89C-39DF-4575-8533-2B52429FC90D}.Debug|Win32.Build.0 = Debug|Win32
+		{39D9C89C-39DF-4575-8533-2B52429FC90D}.Release|Win32.ActiveCfg = Release|Win32
+		{39D9C89C-39DF-4575-8533-2B52429FC90D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
